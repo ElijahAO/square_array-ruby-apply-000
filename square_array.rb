@@ -1,3 +1,4 @@
-def square_array(array)
-  # your code here
+def
+ array[]={9,10,16,25}
+  
 end
